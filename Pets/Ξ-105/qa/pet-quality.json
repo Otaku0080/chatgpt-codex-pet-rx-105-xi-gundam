@@ -1,0 +1,80 @@
+{
+  "ok": true,
+  "atlas": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/final/spritesheet-extended.png",
+  "encoded_bytes": 4231343,
+  "sha256": "8c99014bfdc5a518f656b798fdcc6ba004a28308814360f17cdda8e2cd24ee31",
+  "jump": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      200,
+      193,
+      161,
+      202,
+      200
+    ],
+    "airborne_lift_pixels": 41,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      100.5,
+      101.5,
+      100.5,
+      99.5,
+      100.0,
+      101.5,
+      101.0,
+      101.0,
+      101.0,
+      99.0,
+      100.0,
+      98.5,
+      98.5,
+      97.5,
+      98.5,
+      98.0
+    ],
+    "look_widths": [
+      153,
+      151,
+      153,
+      149,
+      144,
+      143,
+      142,
+      132,
+      140,
+      138,
+      144,
+      143,
+      135,
+      141,
+      139,
+      132
+    ],
+    "maximum_center_drift_pixels": 5.5,
+    "maximum_width_ratio": 1.1590909090909092
+  },
+  "errors": [],
+  "warnings": [
+    "000 has transparent interior hole rows (y=27, y=28, y=193, y=194, +5 more)",
+    "022.5 has transparent interior hole rows (y=193, y=194, y=195, y=196, +2 more)",
+    "045 has transparent interior hole rows (y=194, y=195, y=196, y=197, +1 more)",
+    "067.5 has transparent interior hole rows (y=194, y=195, y=196, y=197)",
+    "090 has transparent interior hole rows (y=194, y=195, y=196)",
+    "112.5 has transparent interior hole rows (y=193, y=194, y=195)",
+    "135 has transparent interior hole rows (y=193, y=194, y=195)",
+    "157.5 has transparent interior hole rows (y=193, y=194, y=195)",
+    "180 has transparent interior hole rows (y=36, y=37, y=38, y=39, +8 more)",
+    "202.5 has transparent interior hole rows (y=33, y=34, y=35, y=36, +1 more)",
+    "225 has transparent interior hole rows (y=34, y=35, y=36, y=37, +2 more)",
+    "247.5 has transparent interior hole rows (y=36, y=37)",
+    "315 has transparent interior hole rows (y=193)",
+    "157.5->180 diff is a local outlier (5247 pixels vs neighbor average 3428)",
+    "157.5->180 center shift is high (12.0px)",
+    "270->292.5 diff is a local outlier (3361 pixels vs neighbor average 2166)",
+    "337.5->000 diff is a local outlier (8044 pixels vs neighbor average 2936)",
+    "337.5->000 sprite area ratio is high (1.30)"
+  ]
+}

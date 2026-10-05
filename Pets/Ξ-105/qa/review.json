@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21290,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21348,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21523,
+          "bbox": [
+            19,
+            6,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 217
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21412,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21427,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21396,
+          "bbox": [
+            19,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16739,
+          "bbox": [
+            29,
+            7,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15541,
+          "bbox": [
+            31,
+            8,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13967,
+          "bbox": [
+            29,
+            6,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 149
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15603,
+          "bbox": [
+            30,
+            11,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15427,
+          "bbox": [
+            31,
+            11,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14621,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        },
+        {
+          "index": 6,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16060,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 7,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15028,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15449,
+          "bbox": [
+            29,
+            6,
+            162,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15490,
+          "bbox": [
+            29,
+            7,
+            162,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15544,
+          "bbox": [
+            31,
+            6,
+            160,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15568,
+          "bbox": [
+            31,
+            7,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 157
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14496,
+          "bbox": [
+            32,
+            7,
+            159,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13919,
+          "bbox": [
+            35,
+            7,
+            156,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 6,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15434,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 7,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15727,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21883,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21516,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21552,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21767,
+          "bbox": [
+            13,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11673,
+          "bbox": [
+            30,
+            66,
+            161,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11660,
+          "bbox": [
+            32,
+            39,
+            158,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12194,
+          "bbox": [
+            28,
+            5,
+            163,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11960,
+          "bbox": [
+            30,
+            44,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 35
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11694,
+          "bbox": [
+            30,
+            66,
+            160,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 36
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16325,
+          "bbox": [
+            35,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15072,
+          "bbox": [
+            37,
+            12,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 126
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14371,
+          "bbox": [
+            38,
+            17,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 127
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13626,
+          "bbox": [
+            37,
+            20,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 97
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12572,
+          "bbox": [
+            37,
+            32,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 91
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13821,
+          "bbox": [
+            38,
+            20,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 100
+        },
+        {
+          "index": 6,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14945,
+          "bbox": [
+            37,
+            14,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        },
+        {
+          "index": 7,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15110,
+          "bbox": [
+            38,
+            12,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21381,
+          "bbox": [
+            18,
+            6,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 192
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19394,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19387,
+          "bbox": [
+            21,
+            11,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19388,
+          "bbox": [
+            19,
+            13,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 173
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18419,
+          "bbox": [
+            21,
+            9,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20926,
+          "bbox": [
+            18,
+            6,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20559,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20144,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20056,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 139
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19389,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 137
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19486,
+          "bbox": [
+            26,
+            5,
+            166,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 160
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19696,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19929,
+          "bbox": [
+            25,
+            8,
+            167,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 122
+        },
+        {
+          "index": 1,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19204,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 2,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17188,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 94
+        },
+        {
+          "index": 3,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17517,
+          "bbox": [
+            29,
+            7,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 104
+        },
+        {
+          "index": 4,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17748,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 5,
+          "file": "/Users/willsmac/Desktop/RX-105 \u039e Gundam/Pets/\u039e-105/qa/frames-standard/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20196,
+          "bbox": [
+            25,
+            8,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 116
+        }
+      ]
+    }
+  ]
+}

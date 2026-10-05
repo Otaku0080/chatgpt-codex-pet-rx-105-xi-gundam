@@ -1,0 +1,20 @@
+{
+  "directions": [
+    {"direction":"000","expected":"up","observed":"Helmet and green visor pitch toward the top edge while the feet and pelvis stay planted.","verdict":"pass","evidence":"The red forehead block and gold V-fin rise above the faceplate; the visor plane is visibly angled upward."},
+    {"direction":"022.5","expected":"up-right","observed":"Visible visor and chin point up and toward screen-right.","verdict":"pass","evidence":"The face remains raised from 000 and shifts rightward relative to the torso center."},
+    {"direction":"045","expected":"up-right","observed":"Head yaw and visor aim continue into the upper-right quadrant.","verdict":"pass","evidence":"The green visor sits on the right-facing side of the helmet while the V-fin remains elevated."},
+    {"direction":"067.5","expected":"up-right","observed":"Head is nearly right-facing with a remaining upward pitch.","verdict":"pass","evidence":"Faceplate projects toward the right edge and the red chin is still above the neutral head angle."},
+    {"direction":"090","expected":"right","observed":"The helmet, visor and chin clearly face screen-right.","verdict":"pass","evidence":"The visible green visor and faceplate project to the right of the helmet center with no vertical ambiguity."},
+    {"direction":"112.5","expected":"down-right","observed":"Rightward yaw is retained while the helmet begins pitching down.","verdict":"pass","evidence":"The faceplate stays on the screen-right side and the red chin drops relative to the 090 frame."},
+    {"direction":"135","expected":"down-right","observed":"The head points distinctly into the lower-right quadrant.","verdict":"pass","evidence":"The visor remains right of center and the helmet brow lowers over it as the chin moves downward."},
+    {"direction":"157.5","expected":"down-right","observed":"The pose is nearly down-facing with a restrained rightward component.","verdict":"pass","evidence":"The visor and chin are pitched down while still offset toward screen-right, flowing toward 180."},
+    {"direction":"180","expected":"down","observed":"Body remains frontal while the helmet and visor pitch straight down.","verdict":"pass","evidence":"Both shoulders are symmetric and the red forehead block covers more of the lowered face; feet and torso remain centered."},
+    {"direction":"202.5","expected":"down-left","observed":"The visible face stays pitched down and begins yawing toward screen-left.","verdict":"pass","evidence":"The chin remains low and shifts left of the torso center without exposing the rear of the head."},
+    {"direction":"225","expected":"down-left","observed":"Head and visor clearly occupy the lower-left quadrant.","verdict":"pass","evidence":"The visible visor points left and the lowered helmet brow and chin preserve the downward component."},
+    {"direction":"247.5","expected":"down-left","observed":"The pose is nearly left-facing while still pitched down.","verdict":"pass","evidence":"Faceplate projects toward the left edge and the red chin remains below the neutral angle."},
+    {"direction":"270","expected":"left","observed":"Helmet, green visor and faceplate unmistakably face screen-left.","verdict":"pass","evidence":"The visible face projects left of the helmet center with a level, non-vertical aim."},
+    {"direction":"292.5","expected":"up-left","observed":"Leftward yaw is retained while the head begins pitching upward.","verdict":"pass","evidence":"The green visor remains on the screen-left-facing side and the chin rises from the 270 frame."},
+    {"direction":"315","expected":"up-left","observed":"The head points distinctly into the upper-left quadrant.","verdict":"pass","evidence":"Faceplate projects left while the V-fin and visor plane rise toward the top edge."},
+    {"direction":"337.5","expected":"up-left","observed":"The pose is nearly up-facing with a restrained leftward component.","verdict":"pass","evidence":"Helmet and visor pitch upward while the face remains slightly left of center, flowing toward 000."}
+  ]
+}

@@ -1,0 +1,23 @@
+.DS_Store
+/*.webp
+
+# Rebuildable frame caches and rejected revisions
+Pets/Ξ-105/decoded/
+Pets/Ξ-105/revisions/
+Pets/Ξ-105/qa/final-frames/
+Pets/Ξ-105/qa/frames-standard/
+Pets/Ξ-105/qa/rows/
+Pets/Ξ-105/references/layout-guides/
+Pets/Ξ-105/previews/standard/
+Pets/Ξ-105/references/canonical-back-v2.png
+Pets/Ξ-105/references/canonical-base.png
+
+# Intermediate atlas builds; keep the validated final sheet
+Pets/Ξ-105/final/spritesheet-extended-raw*.png
+Pets/Ξ-105/final/spritesheet-extended-v2.png
+Pets/Ξ-105/final/spritesheet-extended-v3.png
+Pets/Ξ-105/final/spritesheet-standard.png
+Pets/Ξ-105/final/validation-extended-v2.json
+Pets/Ξ-105/final/validation-extended-v3.json
+Pets/Ξ-105/qa/*-v2.json
+Pets/Ξ-105/qa/*-v3.json
