@@ -1,0 +1,35 @@
+name: Rights concern
+description: Contact the maintainer about a copyright, trademark, or ownership concern
+title: "[Rights concern]: "
+labels:
+  - rights-concern
+body:
+  - type: markdown
+    attributes:
+      value: The maintainer intends to review credible rights-holder requests promptly and in good faith. Do not include sensitive personal information in a public issue.
+  - type: input
+    id: material
+    attributes:
+      label: Material at issue
+      description: Provide the repository file path or URL.
+    validations:
+      required: true
+  - type: input
+    id: rights_holder
+    attributes:
+      label: Rights holder
+    validations:
+      required: true
+  - type: textarea
+    id: authority
+    attributes:
+      label: Basis of concern
+      description: Briefly explain the claimed right and your authority to raise the concern.
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Requested action
+    validations:
+      required: true
