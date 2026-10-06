@@ -1,6 +1,6 @@
 # RX-105 Ξ Gundam — ChatGPT Codex Pet
 
-![Version](https://img.shields.io/badge/version-v1-4f46e5)
+![Version](https://img.shields.io/badge/version-v1.1-4f46e5)
 ![Pet format](https://img.shields.io/badge/pet%20format-v2-2563eb)
 ![Use](https://img.shields.io/badge/use-non--commercial-f59e0b)
 ![Status](https://img.shields.io/badge/validation-passing-16a34a)
@@ -16,6 +16,7 @@
 
 - Nine complete animation states
 - Sixteen smooth look directions
+- Minovsky-flight movement and hover animations
 - Transparent, validated v2 sprite atlas
 - Dedicated front and rear design references
 - Per-state GIF previews and a complete motion reel
@@ -27,13 +28,13 @@
 | State | Frames | Purpose |
 | --- | ---: | --- |
 | Idle | 6 | Calm breathing and blinking loop |
-| Running right | 8 | Rightward movement |
-| Running left | 8 | Leftward movement |
+| Running right | 8 | Rightward Minovsky flight |
+| Running left | 8 | Leftward Minovsky flight |
 | Waving | 4 | Greeting and attention gesture |
-| Jumping | 5 | Hovering or playful jump |
+| Jumping | 5 | Controlled Minovsky hover |
 | Failed | 8 | Blocked, failed, or cancelled reaction |
 | Waiting | 6 | Waiting for approval or user input |
-| Running | 6 | Active task processing |
+| Running | 6 | Tactical hover during active task processing |
 | Review | 6 | Ready/completed output review |
 | Look directions | 16 | Full 360-degree directional tracking |
 
@@ -54,7 +55,7 @@ The included sheet follows the extended v2 layout:
 | Cell | 192 × 208 px |
 | Color mode | RGBA |
 | Background | Transparent |
-| SHA-256 | `8c99014bfdc5a518f656b798fdcc6ba004a28308814360f17cdda8e2cd24ee31` |
+| SHA-256 | `5b57a60892ee315f6a7bdd170f0baba07861d37a795ddc7bf2c7e253c50e0153` |
 
 ## Project layout
 
@@ -91,7 +92,7 @@ python "Pets/Ξ-105/tools/render_final_previews.py" \
 
 ## Quality status
 
-Version 1 passes the included atlas validation with the expected canvas, grid, transparency, and animation occupancy. The visual QA files document look-direction semantics, rear-view consistency, and continuity checks.
+Version 1.1 passes the included atlas validation with the expected canvas, grid, transparency, and animation occupancy. The visual QA files document look-direction semantics, rear-view consistency, and continuity checks.
 
 ## Contributing
 
@@ -109,7 +110,7 @@ Read [LICENSE.md](LICENSE.md) for the exact scope and [NOTICE.md](NOTICE.md) for
 
 ## Release
 
-Current release: **v1** — see [CHANGELOG.md](CHANGELOG.md).
+Current release: **v1.1** — see [CHANGELOG.md](CHANGELOG.md).
 
 ---
 
